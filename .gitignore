@@ -391,6 +391,10 @@ node_modules/is-number/index.js
 node_modules/is-number/LICENSE
 node_modules/is-number/package.json
 node_modules/is-number/README.md
+node_modules/lru-cache/index.js
+node_modules/lru-cache/LICENSE
+node_modules/lru-cache/package.json
+node_modules/lru-cache/README.md
 node_modules/media-typer/HISTORY.md
 node_modules/media-typer/index.js
 node_modules/media-typer/LICENSE
@@ -794,3 +798,8 @@ node_modules/vary/index.js
 node_modules/vary/LICENSE
 node_modules/vary/package.json
 node_modules/vary/README.md
+node_modules/yallist/iterator.js
+node_modules/yallist/LICENSE
+node_modules/yallist/package.json
+node_modules/yallist/README.md
+node_modules/yallist/yallist.js
